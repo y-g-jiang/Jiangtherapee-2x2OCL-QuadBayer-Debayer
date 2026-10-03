@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+outputs/
+*.npy
+*.npz
+*.dng
+*.tif
+*.tiff
+*.png

@@ -1,0 +1,19 @@
+{
+  ".gitattributes": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da",
+  ".gitignore": "cdf5bff65e661a20f45afd97f8adeda0b8cd2756c5f1d1ea7e57e2cc6ff0b706",
+  "LICENSE.MD": "1349a4b6148492b44f629e64eed676612e234fe9a839e4f3b277c1482c8849f1",
+  "README.md": "9f6ff04c745a431a15ae21e09f0899b57be971479bb56151b2b84ac87c33ffc5",
+  "decode.py": "b64a97c440a1aec22e22bb68d9658763bcadb125599a1b098232d48851956e02",
+  "portable_fullframe.py": "1e5f9081759bbdf529fd96664202f694cf3ab1e58b246a285f1a7158c335a898",
+  "portable_inference.py": "47474651399a743c78cdc8736e282a8ed7d65ca57b37c04208fce261cf333a13",
+  "presets/ov50x_native50.json": "73200bdf7bd8f286c02a4b21a72acbc7a0384bdc35fb9fbfb9bbef4e0b4f28ce",
+  "requirements.txt": "d93b7ab861938cb39d2764cf0641d931a1d093defab7fb7ad038f409e1814774",
+  "run.ps1": "84b9d6c28a541123c6d132724f8d3cb31c83c5b5a9aa3c95ab250c8ea62016ee",
+  "vendor/samsung/LICENSE.MD": "1349a4b6148492b44f629e64eed676612e234fe9a839e4f3b277c1482c8849f1",
+  "vendor/samsung/arch/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "vendor/samsung/arch/jdndm_backbone.py": "dcd122b033a31a31f74b94e4de2552ade40b54626e820af56639a068f09a5609",
+  "vendor/samsung/arch/rcan.py": "b1317ef95ab193d4b4a3fdab624f66eba394ae9980b33d9cacdd15347f4c1caa",
+  "vendor/samsung/arch/simple_multi_head_jd_model.py": "7ae45c1c1f1dfdbbdc6bfc0a30b3b09d2f35dbee92de9a301374bc274245f472",
+  "vendor/samsung/upstream.json": "4d59fe366490dfbd928304df9a4c56d1e6ec8cdba6c13b41ce09294f620af3ac",
+  "weights/balanced_mix25.pt": "28e6d2dd3383320a90425f1c06d69569926f344b76b2ae4bc2db9f45dc784d36"
+}

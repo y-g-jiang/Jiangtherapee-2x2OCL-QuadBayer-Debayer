@@ -1,0 +1,17 @@
+{
+  "weights": "weights/balanced_mix25.pt",
+  "sha256": "28e6d2dd3383320a90425f1c06d69569926f344b76b2ae4bc2db9f45dc784d36",
+  "black": 64,
+  "white": 1023,
+  "cfa_origin": [
+    2,
+    3
+  ],
+  "core": 512,
+  "halo": 64,
+  "stride": 448,
+  "precision": "float32",
+  "tf32": false,
+  "channel_attention_scope": "tile",
+  "detail_guards_pass": false
+}
